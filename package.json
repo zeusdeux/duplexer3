@@ -1,0 +1,17 @@
+{
+  "name": "duplexer3",
+  "version": "0.0.1",
+  "description": "A streams2, readable <-> writable duplexer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "duplexer",
+    "streams2",
+    "readable",
+    "writable"
+  ],
+  "author": "Mudit Ameta",
+  "license": "MIT"
+}
